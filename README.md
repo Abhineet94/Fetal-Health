@@ -6,7 +6,8 @@ features  extracted  from  Cardiotocogram  exams,  which  were  then  classified
 obstetricians  into  3  classes:  Normal,  Suspect  and  Pathological.  The  dataset  contains  many 
 Independent  variables  and  “fetal_health”  as  the  Dependent  variable.  Perform  the  following 
 operations on the dataset.
-Predictive Analytics
+
+## Predictive Analytics </br>
 Apply  Decision  Tree  Classifier  on  the  dataset.  Consider  the  X  variables  as  baseline  value, 
 fetal_movement, uterine_contractions, light_decelerations, severe_decelerations, 
 prolonged_decelerations and abnormal_short_term_variability; and Y variable as fetal_health. 
